@@ -18,3 +18,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+header{
+    top: 0;
+    height: 60px;
+    bordon-bottom: 2px solide var(--text-color)
+}
